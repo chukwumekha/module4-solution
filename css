@@ -1,4 +1,6 @@
-p {
+@charset "utf-8";
+/* CSS Document */
+div {
   border: 1px solid black;
   background color: red;
   width: 90%;
@@ -7,4 +9,4 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
- }
+}
